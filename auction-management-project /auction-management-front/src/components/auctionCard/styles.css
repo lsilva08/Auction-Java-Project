@@ -1,0 +1,4 @@
+.auction-card:hover {
+    transform: scale(0.94);
+    cursor: pointer;
+}   
